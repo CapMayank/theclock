@@ -1,5 +1,5 @@
 /* Importing Roboto Mono Google font */
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 
 #digital-clock {
  background-color: #fbff00;
@@ -8,7 +8,7 @@
  margin: auto;
  padding-top: 50px;
  padding-bottom: 50px;
- font-family: 'Roboto Mono', Roboto-Mono;
+ font-family: 'Orbitron', sans-serif;
  font-size: 100px;
  text-align: center;
  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
