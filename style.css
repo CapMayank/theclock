@@ -1,0 +1,20 @@
+/* Importing Roboto Mono Google font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+#digital-clock {
+ background-color: #fbff00;
+ color:#00ff33;
+ width: 80%;
+ margin: auto;
+ padding-top: 50px;
+ padding-bottom: 50px;
+ font-family: 'Roboto Mono', Roboto-Mono;
+ font-size: 100px;
+ text-align: center;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#maker {
+ color:#00fbff;
+ font-size: 50px;
+ text-align: center;
+}
